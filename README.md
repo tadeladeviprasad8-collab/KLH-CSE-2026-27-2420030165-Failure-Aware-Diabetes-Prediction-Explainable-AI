@@ -1,1 +1,3 @@
-# KLH-CSE-2026-27-2420030165-Heart-Disease-Prediction
+# Demo Repository
+
+This repository contains demo folders and files.
