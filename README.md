@@ -1,6 +1,3 @@
-# Demo Repository
-
-This repository contains demo folders and files.
 # ❤️ Heart Disease Early Risk Prediction Using Multi-Dataset Analysis
 
 ## 📌 About the Project
