@@ -1,0 +1,11 @@
+Model,Log_Loss,Brier_Score
+XGBoost,0.5492,0.3221
+Soft Voting,0.6713,0.3728
+Random Forest,0.6843,0.393
+CatBoost,0.7835,0.4412
+LightGBM,0.8143,0.4603
+Hybrid (Corrected),0.8731,0.493
+Logistic Regression,0.8804,0.4885
+Stacking (Corrected),0.8833,0.4964
+SVM (SGD),0.9804,0.2832
+Decision Tree,0.9824,0.5035

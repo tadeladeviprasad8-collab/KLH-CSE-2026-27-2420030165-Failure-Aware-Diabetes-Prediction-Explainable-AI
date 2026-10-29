@@ -1,0 +1,6 @@
+Configuration,Accuracy,Macro_F1,Prediabetes_Recall
+Base Probs Only (Stacking),0.6117,0.4199,0.3402
+Probs + Entropy,0.6392,0.423,0.2754
+Probs + Disagreement / Agreement,0.6117,0.4197,0.3564
+Probs + Entropy + Disagreement,0.6387,0.4241,0.2959
+Full 50-Feature Hybrid (Proposed),0.6101,0.4162,0.3888

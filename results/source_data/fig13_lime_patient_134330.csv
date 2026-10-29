@@ -1,0 +1,6 @@
+Rule,Weight
+8.00 < Age <= 10.00,-0.009
+7.00 < Income <= 8.00,0.0113
+HvyAlcoholConsump <= 0.00,-0.0123
+0.00 < HighBP <= 1.00,-0.0212
+Health_Burden > 2.00,-0.0292

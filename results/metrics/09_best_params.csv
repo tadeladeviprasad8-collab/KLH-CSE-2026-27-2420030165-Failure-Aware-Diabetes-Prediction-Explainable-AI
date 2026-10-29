@@ -1,0 +1,5 @@
+Model,Best_CV_Macro_F1,Best_Params
+XGBoost,0.40368107491680416,"{'n_estimators': 350, 'max_depth': 10, 'learning_rate': 0.1205712628744377, 'subsample': 0.8394633936788146, 'colsample_bytree': 0.6624074561769746, 'min_child_weight': 2, 'reg_alpha': 3.3323645788192616e-08, 'reg_lambda': 0.6245760287469893}"
+LightGBM,0.4252770049253913,"{'n_estimators': 322, 'max_depth': 8, 'learning_rate': 0.04345454109729477, 'subsample': 0.7164916560792167, 'colsample_bytree': 0.8447411578889518, 'min_child_samples': 11, 'num_leaves': 43, 'reg_alpha': 1.9826980964985924e-05, 'reg_lambda': 0.00012724181576752517}"
+CatBoost,0.43106027047221385,"{'iterations': 587, 'depth': 9, 'learning_rate': 0.028180680291847244, 'l2_leaf_reg': 7.569183361880229e-08, 'bagging_temperature': 0.6842330265121569}"
+RandomForest,0.4319103811868751,"{'n_estimators': 277, 'max_depth': 19, 'min_samples_split': 7, 'min_samples_leaf': 8, 'max_features': None}"

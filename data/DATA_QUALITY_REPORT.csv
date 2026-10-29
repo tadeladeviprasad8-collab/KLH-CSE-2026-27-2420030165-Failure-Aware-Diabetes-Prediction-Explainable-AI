@@ -1,0 +1,12 @@
+Check,Result,Action Needed
+Total observations (Dataset 1),"253,680",No
+Total features (Dataset 1),21,No
+Target column,Diabetes_012,No
+Number of classes,3,No
+Missing values,None,No — no missingness
+Duplicate rows,"23,899 (9.4%)",Investigate in NB02
+Data types,All int64 (integer-coded),No
+BMI range,12 – 98,Validate extremes in NB02
+Age range (ordinal),1 – 13,No
+Dataset 2 observations,"13,889",No
+Dataset 2 year span,2000 – 2024,No

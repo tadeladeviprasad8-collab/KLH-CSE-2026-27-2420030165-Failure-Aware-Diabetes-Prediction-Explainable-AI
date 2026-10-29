@@ -1,0 +1,7 @@
+Feature,Type,True_Positive_SHAP,False_Negative_SHAP
+Health_Burden,Physiological,0.11171638,-0.032024536
+GenHlth_BMI,Physiological,0.20402096,-0.10034126
+BMI_Age_Interaction,Physiological,0.11326146,-0.029716447
+HighBP,Physiological,0.09200888,-0.018782716
+Income,Socioeconomic,0.034844726,-0.016395561
+Education,Socioeconomic,0.01942576,0.00493051

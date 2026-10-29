@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches and environments
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# CatBoost and training logs
+catboost_info/
+logs/
+*.log
+
+# Large model binaries and archives (> 100MB / non-essential)
+*.joblib
+*.pkl
+*.h5
+*.zip
+*.tar.gz
+*.rar
+backup_*/
+
+# Raw large datasets (download instructions in data/README.md)
+data/raw/*.csv
+data/processed/*.csv
+!data/sample/*.csv
+!data/*.csv
+TEST_PREDICTIONS_MASTER.csv
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store

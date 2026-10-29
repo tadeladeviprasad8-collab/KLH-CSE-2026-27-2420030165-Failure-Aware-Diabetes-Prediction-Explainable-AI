@@ -1,0 +1,11 @@
+Model,No Diabetes (0),Prediabetes (1),Diabetes (2)
+SGD (Modified Huber),0.8605,0.0043,0.5485
+XGBoost,0.803,0.0205,0.5831
+Soft Voting,0.7718,0.0421,0.6944
+Random Forest,0.7133,0.0778,0.7039
+CatBoost,0.6787,0.1825,0.6773
+LightGBM,0.6514,0.2538,0.6432
+Logistic Regression,0.6595,0.324,0.5732
+Decision Tree,0.5932,0.3359,0.5415
+Failure-Aware Hybrid,0.6245,0.3888,0.5521
+Standard Stacking,0.6096,0.406,0.5678

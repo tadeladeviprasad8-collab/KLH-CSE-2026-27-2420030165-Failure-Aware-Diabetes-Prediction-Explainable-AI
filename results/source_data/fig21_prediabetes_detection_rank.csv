@@ -1,0 +1,11 @@
+Model,Accuracy,Macro_F1,Prediabetes_Recall,Family
+SGD (Modified Huber),0.8014,0.4472,0.0043,Linear SGD
+XGBoost,0.7581,0.4347,0.0205,Tree Ensemble
+Soft Voting,0.7477,0.4476,0.0421,Ensemble
+Random Forest,0.7004,0.4301,0.0778,Tree Ensemble
+CatBoost,0.6694,0.43,0.1825,Tree Ensemble
+LightGBM,0.643,0.4234,0.2538,Tree Ensemble
+Logistic Regression,0.6414,0.4257,0.324,Linear
+Decision Tree,0.5813,0.3926,0.3359,Decision Tree
+Failure-Aware Hybrid,0.6101,0.4162,0.3888,Proposed Hybrid
+Standard Stacking,0.6,0.418,0.406,Meta Ensemble
